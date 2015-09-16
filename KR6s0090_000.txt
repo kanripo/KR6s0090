@@ -1,0 +1,4 @@
+#-*- mode: mandoku-view; -*-
+#+TITLE: 古今譯經圖紀
+#+DATE: 2015-08-31 00:09:03.854815
+#+PROPERTY: JUAN 0
